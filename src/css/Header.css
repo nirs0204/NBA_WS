@@ -1,0 +1,50 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-top: #080000;
+    border-bottom: #080000;
+    border: 5px;
+    border: #080000;
+    box-shadow:black  0 0 10px 0;
+
+  }
+  .logo img {
+    border: none;
+    border-radius: 100px;
+    height: 70px;
+  }
+  .logo{
+    height: 100px;
+  }
+  .logo h2 {
+    color: #114378;
+    font-size: xx-large;
+    font-style: oblique;
+  }
+  
+  .search input {
+    padding: 5px;
+    color: rgb(255, 136, 0);
+    margin-right: 10px;
+    border: none;
+    text-underline-position: above;
+    background-color: rgb(197, 200, 200);
+    border-radius: 2px;
+  }
+  
+  .search button {
+    color: #114378;
+    background-color: rgb(197, 200, 200);
+    border: none;
+    cursor: pointer;
+    height: 25px;
+  }
+  
+  .text-zone input {
+    padding: 5px;
+    border: none;
+    background-color: #d8b507;
+  }
+  

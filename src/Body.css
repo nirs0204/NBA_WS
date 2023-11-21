@@ -1,0 +1,39 @@
+.body {
+  padding: 10px;
+  background-color: #ffffffdc;
+  height: max-content;
+  width: 1300px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.table-container {
+  margin: 20px;
+  
+}
+.table-container h2{
+  color: #114378;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+}
+
+.user-table th,
+.user-table td {
+  border:none;
+  padding: 20px;
+  text-align: left;
+}
+
+.user-table th {
+  background-color: #0f6db4;
+  font-weight: bold;
+}
+
+.champ{
+  color: #ffffff;
+}
+
